@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi everyone!
 
-<!--
-**SeNicko/SeNicko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>'*I think that's the single best piece of advice:*
+>*constantly think about how you could be doing things better and questioning yourself.*'
+>~Elon Musk
 
-Here are some ideas to get you started:
+Have a nice day! Remember to stay active 🌋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+## 🔥2020 main challenges🌵
+- [ ] Master vue.js
+- [ ] Learn creating secure apis (json web tokens etc.)
+- [ ] Learn basics of Flask
+
+## 🌍Cool things I want to play with in spare time🚀
+  * Flutter and Dart 😍
+  * Tensorflow for Python 😌
+  * Do something cool in Golang 😵
+
+## 🔭 I’m currently working on ...
+  - [Github profile viewer made with Vue.js](https://github.com/SeNicko/github-profile-viewer)
+
+
+## 🌱 I’m currently learning ...
+  * Python
+  * Typescript
+  * all things which are interesting
+ 
+<br />
+<br />
+  
+<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=senicko&count_private=true" />
