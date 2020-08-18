@@ -11,8 +11,8 @@ Have a nice day! Remember to stay active 🌋
 
 ## 🔥2020 main challenges🌵
 - [ ] Master vue.js
-- [ ] Learn creating secure apis (json web tokens etc.)
 - [ ] Learn basics of Flask
+- [ ] Do something COOOOOL
 
 ## 🌍Cool things I want to play with in spare time🚀
   * Flutter and Dart 😍
