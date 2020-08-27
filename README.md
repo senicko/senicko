@@ -20,7 +20,7 @@ Have a nice day! Remember to stay active 🌋
   * Do something cool in Golang 😵
 
 ## 🔭 I’m currently working on ...
-  - [Github profile viewer made with Vue.js](https://github.com/SeNicko/github-profile-viewer)
+  - Getting better in coding 🔥
 
 
 ## 🌱 I’m currently learning ...
