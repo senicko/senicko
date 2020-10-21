@@ -1,24 +1,9 @@
 # Hi everyone!
 
->'*I think that's the single best piece of advice:*
->*constantly think about how you could be doing things better and questioning yourself.*'
->~Elon Musk
-
 Have a nice day! Remember to stay active 🌋
 
 <br />
 <br />
-
-## 🔥2020 main challenges🌵
-- [ ] Master vue.js
-- [ ] Learn basics of Flask
-- [ ] Do something COOOOOL
-
-## 🌍Cool things I want to play with in spare time🚀
-  * Flutter and Dart 😍
-  * Tensorflow for Python 😌
-  * Do something cool in Golang 😵
-
 ## 🔭 I’m currently working on ...
   - Getting better in coding 🔥
 
@@ -27,7 +12,6 @@ Have a nice day! Remember to stay active 🌋
   * Python
   * Typescript
   * all things which are interesting
- 
 <br />
 <br />
   
