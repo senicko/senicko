@@ -4,14 +4,14 @@ Have a nice day! Remember to stay active 🌋
 
 <br />
 <br />
+
 ## 🔭 I’m currently working on ...
   - Getting better in coding 🔥
 
 
 ## 🌱 I’m currently learning ...
-  * Python
-  * Typescript
   * all things which are interesting
+  
 <br />
 <br />
   
