@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">Student/Programmer from Poland who enjoys creating.</h3>
 
 <br/>
 
