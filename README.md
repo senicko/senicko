@@ -2,8 +2,6 @@
 
 <br/>
 
-- 🔭 I’m currently working on [lvlup client for golang](https://github.com/SeNicko/lvlup) 🐬
-
 - 🌱 I’m currently learning **Go, Docker, Kubernetes, Typescript**🚀
 
 <br/>
