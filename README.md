@@ -7,13 +7,3 @@ I am 17 yo high school student from Poland, who loves to create cool stuff with 
 ### Projects I worked on during competitions 🏆
 - Logic gates simulator [(repo)](https://github.com/team-nullptr/logic-gates-simulator)
 - Sokoban game [(repo)](https://github.com/bk20dev/sokoban)
-  
-### I am learning 🤓
-- C
-- Lexers, parsers, compilers
-- Rust and WebAssembly
-
-### Mainly I am coding in 🐙
-- React
-- Typescript
-- Golang
