@@ -6,4 +6,3 @@ I am 17 yo high school student from Poland, who loves to create cool stuff with 
 - Sokoban game [(repo)](https://github.com/bk20dev/sokoban)
 - Code Runner [(repo)](https://github.com/senicko/code-runner)
 - Run API [(repo)](https://github.com/senicko/run-api)
-- Ecommerce frontend [(repo)](https://github.com/senicko/ecommerce-web)
