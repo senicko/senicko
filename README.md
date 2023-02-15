@@ -1,2 +1,2 @@
 # Hello! 🖐
-I am 17 yo high school student from Poland, who loves to create cool stuff.
+I am 18 yo high school student from Poland, who loves to create cool stuff.
