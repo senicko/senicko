@@ -1,1 +1,1 @@
-19 yo high school student from Poland, who loves to build cool stuff.
+19 yo CS student from Poland, who loves to build cool stuff.
